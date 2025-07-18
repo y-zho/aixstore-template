@@ -1,0 +1,59 @@
+# AIX店™ - AI OMO 商店系统模板
+
+> Launch your AI-powered bilingual store in 1 day – designed for freelancers, TikTok sellers, and global e-commerce creators.
+
+![cover](AIX_GitHub_Cover.png)
+
+---
+
+## 🚀 What is this?
+
+AIX店™ is a ready-to-use web storefront powered by AI and optimized for the OMO (Online-Merge-Offline) era. This template allows you to instantly deploy a bilingual AI-assisted shopping page using GitHub Pages.
+
+---
+
+## 🔑 Features
+
+- 🌐 **English + 中文** bilingual support  
+- 🤖 GPT-based assistant link for customer service  
+- 🛒 One-page storefront with product showcase  
+- 📎 Easy integration with Stripe/PayPal  
+- 📄 Notion-based product management template included  
+- 🎨 Fully customizable with your brand logo and text
+
+---
+
+## 💼 Perfect For:
+
+- TikTok + 小红书 自由商
+- 海外电商 & Dropship 商家
+- 独立站创业者
+- 没有开发经验的自由职业者
+
+---
+
+## 🧰 How to Use
+
+1. Fork or use this template (`Use this template` button)
+2. Upload your product info to Notion or fill into static HTML
+3. Edit your `index.html` with product data
+4. Deploy via GitHub Pages (`Settings → Pages`)
+5. Share your link & start selling!
+
+---
+
+## 📦 Resources
+
+- `index.html`: Main storefront page  
+- `AIX_GitHub_Cover.png`: Cover image  
+- Notion 商品数据模板说明：另附 Word 文件
+
+---
+
+## 📬 联系 / Contact
+
+Email: hello@aixshop.io  
+Telegram: @aixstore_support
+
+---
+© 2025 AIX店™ – Smart Store for the OMO World.
